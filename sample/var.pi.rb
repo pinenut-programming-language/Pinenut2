@@ -1,0 +1,2 @@
+a = "aiueo"
+print a
