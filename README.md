@@ -1,3 +1,5 @@
+# 移転しました
+https://github.com/pinenut-programming-language/pinenut-programming-language.github.io
 # Pinenut2
 これは、ネットワークがプログラミングしやすい言語PinenutのVer.2です。
 <a href="setup.html">機器への導入</a>
